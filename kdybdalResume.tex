@@ -1,0 +1,79 @@
+% LaTeX resume using res.cls
+\documentclass[margin]{res}
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+\setlength{\textwidth}{5.1in} % set width of text portion
+
+\usepackage{hyperref}
+
+
+\begin{document}
+
+% Center the name over the entire width of resume:
+ \moveleft.5\hoffset\centerline{\large\bf Kyle Fiscus Dybdal}
+% Draw a horizontal line the whole width of resume:
+ \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+% address begins here
+% Again, the address lines must be centered over entire width of resume:
+ \moveleft.5\hoffset\centerline{3621 N. 16th St.}
+ \moveleft.5\hoffset\centerline{Tacoma, WA 98416}
+ \moveleft.5\hoffset\centerline{651-361-0164}
+
+
+\begin{resume}
+ 
+
+\section{EDUCATION} {\sl Bachelor of Science} in Computer Science \\
+                      % \sl will be bold italic in New Century Schoolbook (or
+	              % any postscript font) and just slanted in
+		      %	Computer Modern (default) font
+                University of Puget Sound, Tacoma WA, 
+                expected May 2015 \\
+                Minor: Mathematics 
+                GPA: 3.3/4.0                
+ 
+ 
+\section{COMPUTER SCIENCE BACKGROUND} \begin{itemize} \item {\sl Languages:} Java, Python, Haskell, HTML5/CSS, Javascript
+						 	\item {\sl Courses:} Intro to Algorithms and Data Structures, Functional Programming, Math for Computer Science, Software Engineering, Assembly Language and Architecture, Graphics
+						 	\item {\sl Personal Education:} Codecademy Courses: Python, HTML/CSS, and Javascript
+						 	\end{itemize} 
+\section{PROJECTS} \begin{itemize}
+	\item {\sl Class:} Huffman Encoder - https://github.com/dybdalk/huffman-encoder
+	\begin{itemize}
+	\item Utilizes custom trees to create a Huffman Encoder written in Java
+
+	\end{itemize}
+	\item {\sl Class:} OpenGL Android Applications - https://github.com/dybdalk/cs315-opengles
+	\begin{itemize}
+	\item Small applications that showcase some of the uses of OpenGLES and its integration with Android
+	\end{itemize}
+	\item {\sl Class:} Haskell Combination Lock Generator - https://github.com/dybdalk/haskell-lock-gen
+	\begin{itemize}
+	\item Demonstrates the capabilities of functional programming by generating the most secure "rotors" their characters for a word-based combination lock when given a number of rotors, number of characters per rotor, and the number of characters that should be considered for each rotor
+	\end{itemize}
+	\item {Personal:} Python Platform Game - https://github.com/dybdalk/to-the-heights
+	\begin{itemize}
+	\item A simple platform jumping game written in python. it's in pre-alpha right now, so it's playable, but a lot of the artwork and rules tweaks have yet to be implemented
+	\end{itemize}
+	
+\end{itemize}						
+ 
+\section{EXPERIENCE} {\sl Special Events Intern} \hfill January 2012-present \\ 
+                Tacoma College Ministries, Tacoma, WA 
+                 \begin{itemize}  \itemsep -2pt %reduce space between items
+                 \item   Organized multiple weekend long trips for 40-50 people 
+                \item   Helped coordinate a fundraiser bringing in ~\$18,000 
+                \end{itemize}
+
+\section{EXTRA-CURRICULAR \\ ACTIVITIES}             
+            Elected: {\it Vice President}, Lighthouse Interdenominational Christian Fellowship \\
+            Elected: {\it Music Chair}, Sigma Alpha Epsilon Fraternity \\
+           	Participant: Theatre Productions, Jazz Combo, ACM
+ 
+
+\end{resume}
+\end{document}
+
+
+
+
