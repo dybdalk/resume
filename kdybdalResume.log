@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.1)  1 AUG 2014 18:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.1)  5 NOV 2014 17:38
 entering extended mode
 **kdybdalResume.tex
 (C:\Users\Kyle\Documents\GitHub\resume\kdybdalResume.tex
@@ -196,33 +196,37 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 23.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
 
+Underfull \hbox (badness 10000) in paragraph at lines 26--33
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
 
-Overfull \hbox (3.47884pt too wide) in paragraph at lines 38--39
+Overfull \hbox (3.47884pt too wide) in paragraph at lines 37--38
 []\OT1/cmr/m/sl/10 Personal Ed-u-ca-tion: \OT1/cmr/m/n/10 Codecademy Courses: P
 ython, HTML/CSS, and Javascript 
  []
 
 
-Overfull \hbox (15.29834pt too wide) in paragraph at lines 50--51
+Overfull \hbox (15.29834pt too wide) in paragraph at lines 49--50
 []\OT1/cmr/m/sl/10 Class: \OT1/cmr/m/n/10 Haskell Com-bi-na-tion Lock Gen-er-a-
 tor - https://github.com/dybdalk/haskell-
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 75.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 74.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
  4309 strings out of 493921
@@ -238,7 +242,7 @@ Here is how much of TeX's memory you used:
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on kdybdalResume.pdf (1 page, 83430 bytes).
+Output written on kdybdalResume.pdf (1 page, 83415 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
