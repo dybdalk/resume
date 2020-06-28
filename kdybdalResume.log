@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.7.1)  4 MAR 2020 15:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.7.1)  28 JUN 2020 14:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -192,6 +192,12 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
 
+Overfull \hbox (1.89557pt too wide) in paragraph at lines 26--27
+[]\OT1/cmr/m/sl/10 Languages: \OT1/cmr/m/n/10 HTML5/CSS3/Sass, Javascript/jQuer
+y/Angular/React, ASP.NET,
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 67--74
 
  []
@@ -212,13 +218,13 @@ Here is how much of TeX's memory you used:
  8237 multiletter control sequences out of 15000+600000
  5512 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,21p,214b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,21p,220b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2019
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2019/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb>
-Output written on kdybdalResume.pdf (1 page, 68266 bytes).
+Output written on kdybdalResume.pdf (1 page, 68282 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
